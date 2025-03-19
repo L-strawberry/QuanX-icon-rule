@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,niercloud.com
 DOMAIN-SUFFIX,niceduck.io
 DOMAIN-SUFFIX,niceduck.cc
 DOMAIN-SUFFIX,nutbit.net
+DOMAIN-SUFFIX,oochat.space
 DOMAIN-SUFFIX,ouonetwork.com
 DOMAIN-SUFFIX,sntp.uk
 DOMAIN-SUFFIX,sudatech.store
@@ -29,12 +30,9 @@ DOMAIN-SUFFIX,ffq.la
 DOMAIN-SUFFIX,ffqla.net
 DOMAIN-SUFFIX,miaoko.net
 DOMAIN-SUFFIX,msl.la
+DOMAIN-SUFFIX,netmakercn.com
 DOMAIN-SUFFIX,ytools.cc
 DOMAIN-KEYWORD,ffqla
-
-#逆水寒台服
-DOMAIN-SUFFIX,easebar.com
-IP-CIDR,35.229.223.208/32,no-resolve
 
 #影巢
 DOMAIN-SUFFIX,hdhive.online
@@ -73,6 +71,7 @@ IP-CIDR,220.181.174.34/32,no-resolve
 
 #杂七杂八
 DOMAIN-SUFFIX,cybermania.ws
+DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,lrepacks.net
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,myavlive.com
